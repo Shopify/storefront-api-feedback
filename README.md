@@ -13,6 +13,6 @@ We’ve created four categories to help you find the right place to jump in:
 * **RFC** - We need your input! Preview and chime in on the design of upcoming features to ensure that they effectively address your commerce needs.
 * **Show & Tell** - Share your creative examples of the power of Storefront API, and what you’ve built.
  
-If you’d like to learn more about the Storefront API start [here](https://shopify.dev/custom-storefronts/getting-started/storefront-api).
+If you’d like to learn more about the Storefront API start [here](https://shopify.dev/api/storefront/getting-started).
 
 *Please remember this is a public forum. To help you get the most of this space, please adhere to our [code of conduct](https://github.com/Shopify/storefront-api-feedback/blob/main/CODE_OF_CONDUCT.md).* 
